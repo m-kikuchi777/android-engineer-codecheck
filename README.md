@@ -12,12 +12,12 @@
 
 ### 環境
 
-- IDE：Android Studio Flamingo | 2022.2.1 Patch 2
+- IDE：Android Studio Meerkat | 2024.3.1 Patch 1
 - Kotlin：1.6.21
 - Java：17
-- Gradle：8.0
+- Gradle：8.11.1
 - minSdk：23
-- targetSdk：31
+- targetSdk：35
 
 ※ ライブラリの利用はオープンソースのものに限ります。
 ※ 環境は適宜更新してください。
